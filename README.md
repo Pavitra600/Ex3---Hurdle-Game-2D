@@ -87,11 +87,11 @@ public class Score : MonoBehaviour
 ```
 
 ## OUTPUT:
-![Screenshot 2025-04-13 191205](https://github.com/user-attachments/assets/0c277dc2-e50f-4df6-93f9-ba5b7c8c19d3)
+![image](https://github.com/user-attachments/assets/b6ffc123-cd59-4fc5-90da-9b8bf83c4ee3)
 
+![Screenshot (40)](https://github.com/user-attachments/assets/fde42c86-9ba0-4358-a674-d88610c4fbc3)
 
-![Screenshot 2025-04-13 191443](https://github.com/user-attachments/assets/16ce1c78-2f35-43c8-9792-a78a21921e8e)
-
+![image](https://github.com/user-attachments/assets/6ddcf56a-711c-42b3-a72d-cd8a3a994677)
 
 
 
